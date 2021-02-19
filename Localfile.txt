@@ -1,0 +1,4 @@
+sample file
+git remote add origin <url>
+git add . 
+git commit -m <messag
